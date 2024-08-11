@@ -1,0 +1,11 @@
+/.lsp-session
+/.lsp-session-v1
+/auto-save-list/
+/eln-cache/
+*.elc
+.cask
+*~
+*.~undo-tree
+/elpa/
+/transient/
+/multisession/
